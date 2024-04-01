@@ -1,0 +1,122 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	text-align: center;
+	margin: 0;
+	background-color: #000;
+	color: #fff;
+	padding: 20px 0;
+}
+
+.aw {
+
+	width: 100vw;
+	margin: 0 auto;
+}
+
+#a:hover {
+    color: red;
+}
+
+h2 {
+	text-align: center;
+	margin: 0;
+	background: linear-gradient(to right, #ff8a00, #da1b60);
+}
+
+header {
+	background-color: #000;
+	color: #fff;
+	padding: 20px 0;
+}
+
+header h1 {
+	margin: 0;
+}
+
+nav ul {
+	font-size: 17px;
+	float: right;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: black;
+}
+
+nav ul li {
+	 
+	display: inline;
+	margin: 0 10px;
+	float: right;
+}
+
+nav ul li a {
+	
+	color: #fff;
+	text-decoration: none;
+}
+
+main {
+	padding: 20px 0;
+}
+
+section {
+	padding: 20px 0;
+}
+
+section h2 {
+	margin-bottom: 10px;
+}
+
+section a {
+	float: right;
+}
+
+footer {
+	position: absolute;
+	bottom: 0;
+	width: 100vw;
+	background-color: black;
+	color: #fff;
+	text-align: center;
+	padding: 10px 0;
+	margin-bottom: 0px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth; 
+}
+
+.section {
+    font-size: 30px;
+}
+
+img {
+    width: 40%;
+    height: auto;
+    margin-top: 15px;
+	margin-left: 30px;
+}
+
+p {
+	margin-left: 10px;
+}
+
+h3 { 
+	margin-left: 15px;
+}
+
+#zdjecie {
+	margin-right: 30px;
+	height: 500px;
+	width: 30%;
+}
+
+
